@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@400;500;600;700&display=swap');
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background: url("./images/bg-intro-desktop.png"),hsl(0, 100%, 74%);
+}
+
+body .container {
+    width: 85%;
+    max-width: 1440px;
+    
+}
+
+.form_field {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+
+}
+
+.subscribtion_info {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
+
+.btn_elements {
+    position: relative;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
+
+.container {
+    margin-left: 100px;
+    margin-right: 100px;
+    displ
+}
+
